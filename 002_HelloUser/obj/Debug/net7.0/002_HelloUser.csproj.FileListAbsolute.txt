@@ -1,0 +1,15 @@
+G:\GeekBrains\Знакомство с языками программирования (лекции)\1\VSC\Examples\002_HelloUser\bin\Debug\net7.0\002_HelloUser.exe
+G:\GeekBrains\Знакомство с языками программирования (лекции)\1\VSC\Examples\002_HelloUser\bin\Debug\net7.0\002_HelloUser.deps.json
+G:\GeekBrains\Знакомство с языками программирования (лекции)\1\VSC\Examples\002_HelloUser\bin\Debug\net7.0\002_HelloUser.runtimeconfig.json
+G:\GeekBrains\Знакомство с языками программирования (лекции)\1\VSC\Examples\002_HelloUser\bin\Debug\net7.0\002_HelloUser.dll
+G:\GeekBrains\Знакомство с языками программирования (лекции)\1\VSC\Examples\002_HelloUser\bin\Debug\net7.0\002_HelloUser.pdb
+G:\GeekBrains\Знакомство с языками программирования (лекции)\1\VSC\Examples\002_HelloUser\obj\Debug\net7.0\002_HelloUser.csproj.AssemblyReference.cache
+G:\GeekBrains\Знакомство с языками программирования (лекции)\1\VSC\Examples\002_HelloUser\obj\Debug\net7.0\002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+G:\GeekBrains\Знакомство с языками программирования (лекции)\1\VSC\Examples\002_HelloUser\obj\Debug\net7.0\002_HelloUser.AssemblyInfoInputs.cache
+G:\GeekBrains\Знакомство с языками программирования (лекции)\1\VSC\Examples\002_HelloUser\obj\Debug\net7.0\002_HelloUser.AssemblyInfo.cs
+G:\GeekBrains\Знакомство с языками программирования (лекции)\1\VSC\Examples\002_HelloUser\obj\Debug\net7.0\002_HelloUser.csproj.CoreCompileInputs.cache
+G:\GeekBrains\Знакомство с языками программирования (лекции)\1\VSC\Examples\002_HelloUser\obj\Debug\net7.0\002_HelloUser.dll
+G:\GeekBrains\Знакомство с языками программирования (лекции)\1\VSC\Examples\002_HelloUser\obj\Debug\net7.0\refint\002_HelloUser.dll
+G:\GeekBrains\Знакомство с языками программирования (лекции)\1\VSC\Examples\002_HelloUser\obj\Debug\net7.0\002_HelloUser.pdb
+G:\GeekBrains\Знакомство с языками программирования (лекции)\1\VSC\Examples\002_HelloUser\obj\Debug\net7.0\002_HelloUser.genruntimeconfig.cache
+G:\GeekBrains\Знакомство с языками программирования (лекции)\1\VSC\Examples\002_HelloUser\obj\Debug\net7.0\ref\002_HelloUser.dll
